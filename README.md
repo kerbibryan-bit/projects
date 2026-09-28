@@ -18,3 +18,8 @@ Database Used: SQL LITE
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/9d088307-d604-49b6-8bfd-7f54d2d064b0" />
 
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/e6890f7c-9ff7-40e7-b4e4-801fd1445338" />
+
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/a6a5f037-972c-4940-a2ee-8ad2b9573b1d" />
+
+

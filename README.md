@@ -11,6 +11,7 @@ Database Used: SQL LITE
 
 - View Tasks <img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/16a8d7a6-d758-4def-a03a-cec7d6c68d8a" />
 
-- Edit Task
+- Edit Task <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/9d088307-d604-49b6-8bfd-7f54d2d064b0" />
+
 - Delete Task
 - Update Status

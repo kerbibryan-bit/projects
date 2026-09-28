@@ -9,7 +9,7 @@ Database Used: SQL LITE
 
 - Add Task           <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d30b3b8b-5a08-440b-9169-9d3d69fcde7b" />
 
-- View Tasks<img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/16a8d7a6-d758-4def-a03a-cec7d6c68d8a" />
+- View Tasks<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/16a8d7a6-d758-4def-a03a-cec7d6c68d8a" />
 
 - Edit Task
 - Delete Task

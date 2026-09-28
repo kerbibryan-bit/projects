@@ -7,7 +7,8 @@ Database Used: SQL LITE
 
 ## Features
 
-- Add Task
+- Add Task           <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d30b3b8b-5a08-440b-9169-9d3d69fcde7b" />
+
 - View Tasks
 - Edit Task
 - Delete Task
